@@ -20,6 +20,6 @@ This project implements an interactive text generation tool using OpenAI's GPT-2
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/gpt2-text-generator.git
+   git clone https://github.com/Jagdish918/GENERATIVE-TEXT-MODEL/tree/main
    cd gpt2-text-generator
 ![image](https://github.com/user-attachments/assets/a19407b4-e46f-4548-ad9c-0ad600a353eb)
